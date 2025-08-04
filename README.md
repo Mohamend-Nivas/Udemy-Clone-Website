@@ -25,3 +25,6 @@ udemy-clone/
 ## Purpose
 This project is for educational and practice purposes, especially for beginners learning how to structure websites using HTML and CSS.
 It does not include any backend functionality or interactivity.
+
+## How to Use
+Git Clone https://mohamend-nivas.github.io/Udemy-Clone-Website/
