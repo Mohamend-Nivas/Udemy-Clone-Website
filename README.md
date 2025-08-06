@@ -1,4 +1,4 @@
-# Udemy-Clone-Website
+# Udemy-Clone
 
 This is a simple Udemy clone website built using HTML and basic CSS. The project is a front-end UI clone that mimics the design and layout of the Udemy homepage.
 It's built for practice and learning purposes, focusing on structure, layout, and responsive design without using JavaScript or any frameworks.
